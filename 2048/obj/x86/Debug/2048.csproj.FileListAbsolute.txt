@@ -1,0 +1,30 @@
+C:\Users\l2010c\AppData\Local\Temporary Projects\2048\bin\Debug\2048.exe
+C:\Users\l2010c\AppData\Local\Temporary Projects\2048\bin\Debug\2048.pdb
+C:\Users\l2010c\AppData\Local\Temporary Projects\2048\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\l2010c\AppData\Local\Temporary Projects\2048\obj\x86\Debug\_2048.Form1.resources
+C:\Users\l2010c\AppData\Local\Temporary Projects\2048\obj\x86\Debug\_2048.Properties.Resources.resources
+C:\Users\l2010c\AppData\Local\Temporary Projects\2048\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\l2010c\AppData\Local\Temporary Projects\2048\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\l2010c\AppData\Local\Temporary Projects\2048\obj\x86\Debug\2048.exe
+C:\Users\l2010c\AppData\Local\Temporary Projects\2048\obj\x86\Debug\2048.pdb
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\obj\x86\Debug\2048.exe
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\obj\x86\Debug\2048.pdb
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\bin\Debug\2048.exe
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\bin\Debug\2048.pdb
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\obj\x86\Debug\ResolveAssemblyReference.cache
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\obj\x86\Debug\_2048.Form1.resources
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\obj\x86\Debug\_2048.Properties.Resources.resources
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\obj\x86\Debug\GenerateResource.read.1.tlog
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\obj\x86\Debug\GenerateResource.write.1.tlog
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\obj\x86\Debug\_2048.Form2.resources
+C:\Users\Robert\Desktop\2048\2048\obj\x86\Debug\2048.exe
+C:\Users\Robert\Desktop\2048\2048\obj\x86\Debug\2048.pdb
+C:\Users\Robert\Desktop\2048\2048\bin\Debug\2048.exe
+C:\Users\Robert\Desktop\2048\2048\bin\Debug\2048.pdb
+C:\Users\Robert\Desktop\2048\2048\obj\x86\Debug\2048.csprojResolveAssemblyReference.cache
+C:\Users\Robert\Desktop\2048\2048\obj\x86\Debug\_2048.Form1.resources
+C:\Users\Robert\Desktop\2048\2048\obj\x86\Debug\_2048.Form2.resources
+C:\Users\Robert\Desktop\2048\2048\obj\x86\Debug\_2048.Properties.Resources.resources
+C:\Users\Robert\Desktop\2048\2048\obj\x86\Debug\2048.csproj.GenerateResource.Cache
+C:\Users\Robert\Desktop\2048\2048\obj\x86\Debug\_2048.Form3.resources
+C:\Users\Robert\Desktop\2048\2048\obj\x86\Debug\_2048.Form4.resources

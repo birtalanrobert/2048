@@ -1,0 +1,9 @@
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\bin\Release\2048.exe
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\bin\Release\2048.pdb
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\obj\x86\Release\ResolveAssemblyReference.cache
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\obj\x86\Release\_2048.Form1.resources
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\obj\x86\Release\_2048.Properties.Resources.resources
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\obj\x86\Release\GenerateResource.read.1.tlog
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\obj\x86\Release\GenerateResource.write.1.tlog
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\obj\x86\Release\2048.exe
+W:\BirtalanRobert\2013-2014\felevi_table\2048\2048\obj\x86\Release\2048.pdb
